@@ -1,0 +1,10 @@
+{
+  "name": "Drishti Traffic AI",
+  "description": "AI-Powered Smart Traffic Monitoring, Violation Detection, Indian ANPR, Speed Calibration & Intelligent Traffic Analytics Platform.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
